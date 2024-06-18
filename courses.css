@@ -1,0 +1,157 @@
+body{
+    background:url(2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    background-color:darkgoldenrod;
+    padding:20px;
+    text-align: centre;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.main_heading{
+    color:black;
+    font-size: 2.5em;
+    margin: 0;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+#bottone1 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 9px;
+    height: 70px;
+    width: 200px;
+    background: darkgoldenrod;
+    border: none;
+    font-family: inherit;
+    font-size: large;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+   }
+   
+   #bottone1:hover {
+    box-shadow: 7px 5px 56px -14px darkgoldenrod;;
+   }
+   
+   #bottone1:active {
+    transform: scale(0.97);
+    box-shadow: 7px 5px 56px -10px darkgoldenrod;
+   }
+
+
+   #bottone2 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 9px;
+    height: 70px;
+    width: 200px;
+    background: darkgoldenrod;
+    border: none;
+    font-family: inherit;
+    font-size: large;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+   }
+   
+   #bottone2:hover {
+    box-shadow: 7px 5px 56px -14px darkgoldenrod;
+   }
+   
+   #bottone2:active {
+    transform: scale(0.97);
+    box-shadow: 7px 5px 56px -10px darkgoldenrod;
+   }
+   
+   #bottone3 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 9px;
+    height: 70px;
+    width: 200px;
+    background: darkgoldenrod;
+    border: none;
+    font-family: inherit;
+    font-size: large;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+   }
+   
+   #bottone3:hover {
+    box-shadow: 7px 5px 56px -14px darkgoldenrod;
+   }
+   
+   #bottone3:active {
+    transform: scale(0.97);
+    box-shadow: 7px 5px 56px -10px darkgoldenrod;
+   }
+   
+   #bottone4 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 9px;
+    height: 70px;
+    width: 200px;
+    background: darkgoldenrod;
+    border: none;
+    font-family: inherit;
+    font-size: large;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+   }
+   
+   #bottone4:hover {
+    box-shadow: 7px 5px 56px -14px darkgoldenrod;
+   }
+   
+   #bottone4:active {
+    transform: scale(0.97);
+    box-shadow: 7px 5px 56px -10pxdarkgoldenrod;
+   }
+
+   #bottone5 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 9px;
+    height: 80px;
+    width: 200px;
+    background: darkgoldenrod;
+    border: none;
+    font-family: inherit;
+    font-size: large;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+   }
+   
+   #bottone5:hover {
+    box-shadow: 7px 5px 56px -14px darkgoldenrod;
+   }
+   
+   #bottone5:active {
+    transform: scale(0.97);
+    box-shadow: 7px 5px 56px -10px darkgoldenrod;
+   }
